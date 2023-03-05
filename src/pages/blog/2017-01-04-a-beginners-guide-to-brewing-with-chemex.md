@@ -1,29 +1,24 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
+title: 早起きを習慣化するコツ
+date: 2023-03-05T09:04:37.384Z
+description: >-
+  【早起きを習慣化するコツ】
+
+  早起きすることは、自分自身を成長させるために必要なことの一つです。しかし、夜更かしをしてしまったり、朝が苦手な人にとっては、早起きすること自体が難しいと感じることもあるでしょう。
 featuredpost: false
 featuredimage: /img/chemex.jpg
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
 tags:
-  - brewing
-  - chemex
+  - 早起き
+  - 習慣化
+  - ライフハック
+  - 睡眠
+  - 健康管理
 ---
 ![chemex](/img/chemex.jpg)
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
+次に、早起きするためには、夜更かしをしないことが重要です。寝る前にスマートフォンやパソコンなどのデバイスを使うのを控えることで、睡眠の質が向上し、朝にスッキリと起きることができます。また、夜更かしをしないためには、寝る前にリラックスすることも大切です。入浴やストレッチなどをして、緊張を解きほぐすことで、スムーズに眠りにつくことができます。
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
+最後に、朝に目覚めたら、まずは起きることから始めましょう。スマートフォンのアラームを設定して、毎日同じ時間に起きるようにすることで、自然と早起きが習慣化します。また、朝食を用意しておくことも効果的です。朝食を作ることで、自分自身に「今日も頑張ろう」という気持ちを与えることができます。
 
-## The little secrets of Chemex brewing
-
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
-
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
-
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
-
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+以上が、早起きを習慣化するために役立つコツの一例です。少しずつ習慣化していくことで、自分自身を成長させ、充実した毎日を送ることができるでしょう。
